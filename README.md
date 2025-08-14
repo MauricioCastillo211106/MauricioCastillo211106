@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! soy Mauricio Castillo y soy estudiante, bienvenido a mi perfil</h2>
+<h2 align="left">Hola 👋! soy Mauricio Castillo y soy Ingeniero de Software bienvenido a mi perfil</h2>
 
 ###
 
